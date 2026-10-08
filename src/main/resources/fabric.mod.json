@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "clientcommands",
+  "id": "germes",
   "name": "Client Commands",
   "description": "Useful client-side commands",
   "version": "${version}",
